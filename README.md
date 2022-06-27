@@ -1,7 +1,11 @@
 Hola soy Runo S.
+
 Bienvenid@ a mi perfil de GitHub
+
 Aqui subo el codigo de casi todos los proyectos que hago
-En caso de duda mandame un mensaje a 
+
+En caso de duda mandame un mensaje a: 
+
 runispersonalmail@gmail.com
 
 <!---
